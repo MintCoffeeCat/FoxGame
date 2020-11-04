@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - enemy
+  - playerAttack
+  - enemyAttack
+  - reboundPlayerAttack
+  - reboundEnemyAttack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - item
+  - playerBody
+  - attack
+  - scope
+  - check
+  - enemyBody
+  - npcBody
+  - halfGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1017279669
+    locked: 0
+  - name: middleground
+    uniqueID: 1586187367
+    locked: 0
+  - name: hide_middleground
+    uniqueID: 3425327937
+    locked: 0
+  - name: items
+    uniqueID: 2371256403
+    locked: 0
+  - name: hide_items
+    uniqueID: 1087017017
+    locked: 0
+  - name: mobs
+    uniqueID: 868777543
+    locked: 0
+  - name: hide_mobs
+    uniqueID: 3485326011
+    locked: 0
+  - name: frontground
+    uniqueID: 3227158127
+    locked: 0
+  - name: hide_frontground
+    uniqueID: 3366571483
+    locked: 0
